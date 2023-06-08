@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 groups
+=======
+groups = $(groups)
+>>>>>>> db9c288d8e44b29f6ad86c745f2fe4446052edad
